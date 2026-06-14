@@ -30,4 +30,4 @@ Passionate and detail-oriented aspiring Java Full Stack Developer. I love bridgi
 
 ### 📫 Connect with me:
 - *LinkedIn:* [linkedin.com/in/suvethabharathi](https://www.linkedin.com/in/suvetha-s-29a9933a9/)
-- *Email:* suvethabharathi2000@gmail.com-
+- *Email:* suvethabharathi2000@gmail.com
